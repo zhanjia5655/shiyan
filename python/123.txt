@@ -1,0 +1,30 @@
+设备序列号 	0126011903119999
+引擎版本 	V0700R0709B20180709
+
+ip 地址：192.168.7.4/24
+   网关：192.168.7.2
+
+	https://192.168.7.4
+  账号：adm
+  密码：venus70
+
+ 授权申请账号
+   aotuo123
+   Aotuo@123
+
+启明星辰web应用防护事件库升级下载地址  https://www.venustech.com.cn/article/type/1/145.html
+
+
+{CRM:web.test.fail[CRMNJ web监控].last(#9)}<>0
+
+{CRM:web.test.fail[CRMNJ web监控].max(#9)}<>0
+
+abc123
+magedua bc123
+mageduabc123
+mageduabc123
+magedu
+abc123
+magedu
+a bc123
+magedu
